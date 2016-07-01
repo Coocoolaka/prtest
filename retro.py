@@ -164,16 +164,6 @@ def getDataByHeading(self, heading):
 
         return count
 
-def getFilename(self):
-    return self._filename
-
-    # @return: return a list of headings
-    def getHeadings(self):
-        return self._headings
-
-    def getHeadingType(self,heading):
-        idx = self._headings.index(heading)
-        return self._headingType[idx]
 
 
 
