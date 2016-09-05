@@ -1,0 +1,2 @@
+let str1 = "There's this string that will break my syntax parser?";
+let str2 = 'Will double quotes " " break this?'
